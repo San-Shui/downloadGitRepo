@@ -1,9 +1,9 @@
 <template>
   <div class="hello">
     <h1>download-git-repo</h1>
-    <h2><%=name=></h2></h2>
-    <h2><%=email=></h2>
-    <h2><%=phone=></h2>
+    <h2><%= name %></h2></h2>
+    <h2><%= email %></h2>
+    <h2><%= phone %></h2>
   </div>
 </template>
 
