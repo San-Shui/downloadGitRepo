@@ -1,10 +1,9 @@
 <template>
   <div class="hello">
     <h1>download-git-repo</h1>
-    <h2>wilsonzou</h2>
-    <h2>wilsonzou@tencent.com</h2>
-    <h2>15874191105</h2>
-    <h2>610043</h2>
+    <h2><%=name=></h2></h2>
+    <h2><%=email=></h2>
+    <h2><%=phone=></h2>
   </div>
 </template>
 
